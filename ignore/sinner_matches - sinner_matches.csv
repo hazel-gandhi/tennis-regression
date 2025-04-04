@@ -1,0 +1,80 @@
+tourney_name,surface,winner_name,loser_name,score,w_ace,w_df,w_1stIn,w_1stWon,w_1stWon_rate,w_2ndWon,l_ace,l_df,l_1stIn,l_1stWon,l_2ndWon,result
+Adelaide 1,Hard,Sebastian Korda,Jannik Sinner,7-5 6-1,5,1,30,25,0.8333333333,12,8,3,34,23,6,0
+Adelaide 1,Hard,Jannik Sinner,Thanasi Kokkinakis,7-6(2) 6-4,5,2,58,40,0.6896551724,12,9,3,45,33,13,1
+Adelaide 1,Hard,Jannik Sinner,Kyle Edmund,6-3 6-2,5,1,25,23,0.92,13,1,2,21,15,11,1
+Australian Open,Hard,Jannik Sinner,Kyle Edmund,6-4 6-0 6-2,6,2,54,44,0.8148148148,12,2,2,45,24,13,1
+Australian Open,Hard,Jannik Sinner,Tomas Martin Etcheverry,6-3 6-2 6-2,6,3,42,37,0.880952381,16,6,1,40,24,11,1
+Australian Open,Hard,Jannik Sinner,Marton Fucsovics,4-6 4-6 6-1 6-2 6-0,6,5,80,57,0.7125,25,3,4,85,45,14,1
+Australian Open,Hard,Stefanos Tsitsipas,Jannik Sinner,6-4 6-4 3-6 4-6 6-3,12,3,121,81,0.6694214876,26,11,3,92,66,23,0
+Montpellier,Hard,Jannik Sinner,Maxime Cressy,7-6(3) 6-3,4,1,38,33,0.8684210526,16,10,6,39,30,12,1
+Montpellier,Hard,Jannik Sinner,Arthur Fils,7-5 6-2,5,1,34,28,0.8235294118,14,6,2,48,30,11,1
+Montpellier,Hard,Jannik Sinner,Lorenzo Sonego,6-4 6-2,1,2,28,18,0.6428571429,17,3,0,43,26,6,1
+Rotterdam,Hard,Daniil Medvedev,Jannik Sinner,5-7 6-2 6-2,4,1,59,44,0.7457627119,12,2,1,55,34,19,0
+Rotterdam,Hard,Jannik Sinner,Tallon Griekspoor,7-5 7-6(5),7,1,39,32,0.8205128205,23,4,2,42,34,18,1
+Rotterdam,Hard,Jannik Sinner,Stan Wawrinka,6-1 6-3,4,0,30,22,0.7333333333,13,2,1,22,13,4,1
+Rotterdam,Hard,Jannik Sinner,Stefanos Tsitsipas,6-4 6-3,3,1,27,24,0.8888888889,13,1,3,32,22,14,1
+Rotterdam,Hard,Jannik Sinner,Benjamin Bonzi,6-2 3-6 6-1,7,0,45,35,0.7777777778,18,8,3,65,37,18,1
+Indian Wells Masters,Hard,Carlos Alcaraz,Jannik Sinner,7-6(4) 6-3,5,1,52,38,0.7307692308,9,4,4,36,28,17,0
+Indian Wells Masters,Hard,Jannik Sinner,Taylor Fritz,6-4 4-6 6-4,5,1,56,45,0.8035714286,15,4,0,50,35,23,1
+Indian Wells Masters,Hard,Jannik Sinner,Stan Wawrinka,6-1 6-4,5,0,31,21,0.6774193548,20,1,1,34,20,11,1
+Indian Wells Masters,Hard,Jannik Sinner,Adrian Mannarino,7-6(7) 6-4,6,4,33,27,0.8181818182,22,1,2,38,27,21,1
+Indian Wells Masters,Hard,Jannik Sinner,Richard Gasquet,6-3 7-6(2),9,1,35,31,0.8857142857,17,5,4,38,29,11,1
+Miami Masters,Hard,Daniil Medvedev,Jannik Sinner,7-5 6-3,9,6,37,32,0.8648648649,12,6,0,35,24,9,0
+Miami Masters,Hard,Jannik Sinner,Carlos Alcaraz,6-7(4) 6-4 6-2,8,4,66,45,0.6818181818,21,5,9,62,41,21,1
+Miami Masters,Hard,Jannik Sinner,Emil Ruusuvuori,6-3 6-1,4,2,22,21,0.9545454545,12,2,0,35,23,6,1
+Miami Masters,Hard,Jannik Sinner,Andrey Rublev,6-2 6-4,8,0,28,24,0.8571428571,12,6,2,41,30,4,1
+Miami Masters,Hard,Jannik Sinner,Grigor Dimitrov,6-3 6-4,2,1,32,22,0.6875,10,1,6,32,23,7,1
+Miami Masters,Hard,Jannik Sinner,Laslo Djere,6-4 6-2,3,4,29,23,0.7931034483,9,3,2,29,19,12,1
+Monte Carlo Masters,Clay,Holger Rune,Jannik Sinner,1-6 7-5 7-5,4,5,56,38,0.6785714286,16,0,5,65,42,29,0
+Monte Carlo Masters,Clay,Jannik Sinner,Lorenzo Musetti,6-2 6-2,1,0,31,24,0.7741935484,14,1,3,25,16,4,1
+Monte Carlo Masters,Clay,Jannik Sinner,Hubert Hurkacz,3-6 7-6(6) 6-1,3,3,52,39,0.75,21,15,8,60,50,17,1
+Monte Carlo Masters,Clay,Jannik Sinner,Diego Schwartzman,6-0 3-1 RET,2,2,12,10,0.8333333333,10,0,7,14,4,2,1
+Barcelona,Clay,Jannik Sinner,Yoshihito Nishioka,6-1 4-6 6-3,4,2,32,24,0.75,19,0,1,54,27,16,1
+Barcelona,Clay,Jannik Sinner,Diego Schwartzman,6-2 6-4,1,2,36,20,0.5555555556,16,1,3,34,16,10,1
+Rome Masters,Clay,Francisco Cerundolo,Jannik Sinner,6-7(3) 6-2 6-2,2,2,54,38,0.7037037037,21,2,0,60,36,11,0
+Rome Masters,Clay,Jannik Sinner,Alexander Shevchenko,6-3 6-7(4) 6-2,1,1,48,34,0.7083333333,20,4,3,60,33,20,1
+Rome Masters,Clay,Jannik Sinner,Thanasi Kokkinakis,6-1 6-4,2,0,26,25,0.9615384615,11,3,1,29,19,8,1
+Roland Garros,Clay,Jannik Sinner,Alexandre Muller,6-1 6-4 6-1,5,2,40,33,0.825,18,3,0,43,22,13,1
+Roland Garros,Clay,Daniel Altmaier,Jannik Sinner,6-7(0) 7-6(7) 1-6 7-6(4) 7-5,10,6,142,98,0.6901408451,27,11,3,110,77,42,0
+s Hertogenbosch,Grass,Emil Ruusuvuori,Jannik Sinner,6-3 6-4,2,3,29,29,1,11,3,1,38,24,10,0
+s Hertogenbosch,Grass,Jannik Sinner,Alexander Bublik,6-4 6-2,8,0,32,27,0.84375,10,9,6,45,29,13,1
+Halle,Grass,Alexander Bublik,Jannik Sinner,7-5 2-0 RET,6,1,26,21,0.8076923077,6,2,2,22,14,6,0
+Halle,Grass,Jannik Sinner,Lorenzo Sonego,6-7(4) 6-4 6-4,10,3,65,53,0.8153846154,22,8,1,72,51,21,1
+Halle,Grass,Jannik Sinner,Richard Gasquet,6-3 5-7 6-2,11,2,48,38,0.7916666667,24,4,3,79,50,19,1
+Wimbledon,Grass,Jannik Sinner,Juan Manuel Cerundolo,6-2 6-2 6-2,7,0,40,33,0.825,16,5,3,54,30,14,1
+Wimbledon,Grass,Jannik Sinner,Diego Schwartzman,7-5 6-1 6-2,15,1,47,38,0.8085106383,21,1,2,58,34,9,1
+Wimbledon,Grass,Jannik Sinner,Quentin Halys,3-6 6-2 6-3 6-4,9,8,48,40,0.8333333333,31,14,9,61,46,25,1
+Wimbledon,Grass,Jannik Sinner,Daniel Elahi Galan,7-6(4) 6-4 6-3,12,1,48,41,0.8541666667,28,12,3,79,58,18,1
+Wimbledon,Grass,Jannik Sinner,Roman Safiullin,6-4 3-6 6-2 6-2,14,2,48,43,0.8958333333,22,8,7,65,39,23,1
+Wimbledon,Grass,Novak Djokovic,Jannik Sinner,6-3 6-4 7-6(4),11,0,65,49,0.7538461538,28,8,3,54,41,20,0
+Canada Masters,Hard,Jannik Sinner,Alex De Minaur,6-4 6-1,5,3,26,19,0.7307692308,15,1,1,28,13,10,1
+Canada Masters,Hard,Jannik Sinner,Tommy Paul,6-4 6-4,4,3,32,25,0.78125,16,3,2,43,26,8,1
+Canada Masters,Hard,Jannik Sinner,Gael Monfils,6-4 4-6 6-3,5,3,44,36,0.8181818182,21,19,5,51,41,14,1
+Canada Masters,Hard,Jannik Sinner,Matteo Berrettini,6-4 6-3,10,2,41,34,0.8292682927,12,10,2,33,26,8,1
+Cincinnati Masters,Hard,Dusan Lajovic,Jannik Sinner,6-4 7-6(4),4,0,58,44,0.7586206897,12,6,0,41,30,22,0
+Us Open,Hard,Jannik Sinner,Yannick Hanfmann,6-3 6-1 6-1,5,3,41,32,0.7804878049,20,7,3,63,36,14,1
+Us Open,Hard,Jannik Sinner,Lorenzo Sonego,6-4 6-2 6-4,4,1,36,32,0.8888888889,24,4,1,57,36,18,1
+Us Open,Hard,Jannik Sinner,Stan Wawrinka,6-3 2-6 6-4 6-2,12,5,73,53,0.7260273973,23,8,4,53,32,29,1
+Us Open,Hard,Alexander Zverev,Jannik Sinner,6-4 3-6 6-2 4-6 6-3,16,6,113,79,0.6991150442,24,12,7,86,59,37,0
+Beijing,Hard,Jannik Sinner,Daniil Medvedev,7-6(2) 7-6(2),3,0,51,42,0.8235294118,17,6,4,57,43,11,1
+Beijing,Hard,Jannik Sinner,Carlos Alcaraz,7-6(4) 6-1,1,0,44,29,0.6590909091,15,4,0,45,27,5,1
+Beijing,Hard,Jannik Sinner,Grigor Dimitrov,6-4 3-6 6-2,3,1,50,34,0.68,23,2,3,57,40,20,1
+Beijing,Hard,Jannik Sinner,Yoshihito Nishioka,6-2 6-0,8,1,21,19,0.9047619048,11,0,1,33,13,8,1
+Beijing,Hard,Jannik Sinner,Daniel Evans,6-4 6-7(2) 6-3,11,2,55,37,0.6727272727,28,2,2,50,32,29,1
+Shanghai Masters,Hard,Ben Shelton,Jannik Sinner,2-6 6-3 7-6(5),15,4,74,54,0.7297297297,13,8,1,71,49,14,0
+Shanghai Masters,Hard,Jannik Sinner,Sebastian Baez,3-6 6-3 6-2,8,0,49,40,0.8163265306,18,5,1,52,36,9,1
+Shanghai Masters,Hard,Jannik Sinner,Marcos Giron,7-6(7) 6-2,4,2,43,34,0.7906976744,10,2,2,44,31,10,1
+Vienna,Hard,Jannik Sinner,Andrey Rublev,7-5 7-6(5),10,4,45,37,0.8222222222,15,4,2,55,39,9,1
+Vienna,Hard,Jannik Sinner,Frances Tiafoe,6-3 6-4,5,1,38,32,0.8421052632,12,6,2,31,20,14,1
+Vienna,Hard,Jannik Sinner,Lorenzo Sonego,6-2 6-4,1,0,48,35,0.7291666667,6,6,2,41,25,11,1
+Vienna,Hard,Jannik Sinner,Ben Shelton,7-6(2) 7-5,8,1,57,48,0.8421052632,8,11,4,44,38,16,1
+Vienna,Hard,Jannik Sinner,Daniil Medvedev,7-6(7) 4-6 6-3,5,0,86,55,0.6395348837,16,13,8,88,57,18,1
+Paris Masters,Hard,Jannik Sinner,Mackenzie Mcdonald,6-7(6) 7-5 6-1,4,2,48,41,0.8541666667,23,8,2,60,38,18,1
+Tour Finals,Hard,Novak Djokovic,Jannik Sinner,6-3 6-3,13,0,32,29,0.90625,9,8,1,49,28,12,0
+Tour Finals,Hard,Jannik Sinner,Daniil Medvedev,6-3 6-7(4) 6-1,10,2,60,50,0.8333333333,21,10,2,55,44,12,1
+Tour Finals,Hard,Jannik Sinner,Novak Djokovic,7-5 6-7(5) 7-6(2),15,2,71,56,0.7887323944,26,20,1,63,51,22,1
+Tour Finals,Hard,Jannik Sinner,Stefanos Tsitsipas,6-4 6-4,9,2,36,32,0.8888888889,9,6,0,37,26,14,1
+Tour Finals,Hard,Jannik Sinner,Holger Rune,6-2 5-7 6-4,11,0,49,41,0.8367346939,21,15,3,70,50,16,1
+Davis Cup Finals F: AUS vs ITA,Hard,Jannik Sinner,Alex De Minaur,6-3 6-0,5,1,34,25,0.7352941176,7,2,1,33,18,9,1
+Davis Cup Finals QF: ITA vs NED,Hard,Jannik Sinner,Tallon Griekspoor,7-6(3) 6-1,9,1,32,29,0.90625,15,7,1,42,26,11,1
+Davis Cup Finals SF: ITA vs SRB,Hard,Jannik Sinner,Novak Djokovic,6-2 2-6 7-5,12,5,67,48,0.7164179104,17,6,1,46,35,18,1
