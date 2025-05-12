@@ -1,0 +1,643 @@
+,player_name,surface,cluster
+0,Abedallah Shelbayh,Clay,0
+213,Abedallah Shelbayh,Grass,1
+363,Abedallah Shelbayh,Hard,0
+1,Adam Moundir,Clay,0
+2,Adrian Mannarino,Clay,2
+214,Adrian Mannarino,Grass,2
+364,Adrian Mannarino,Hard,0
+3,Albert Ramos,Clay,2
+215,Albert Ramos,Grass,2
+365,Albert Ramos,Hard,0
+4,Alejandro Davidovich Fokina,Clay,2
+216,Alejandro Davidovich Fokina,Grass,2
+366,Alejandro Davidovich Fokina,Hard,0
+5,Alejandro Tabilo,Clay,1
+367,Alejandro Tabilo,Hard,2
+6,Aleksandar Kovacevic,Clay,1
+217,Aleksandar Kovacevic,Grass,1
+368,Aleksandar Kovacevic,Hard,2
+7,Aleksandar Vukic,Clay,1
+218,Aleksandar Vukic,Grass,0
+369,Aleksandar Vukic,Hard,2
+8,Alessandro Giannessi,Clay,2
+219,Alex Bolt,Grass,0
+370,Alex Bolt,Hard,0
+9,Alex De Minaur,Clay,0
+220,Alex De Minaur,Grass,0
+371,Alex De Minaur,Hard,0
+221,Alex Michelsen,Grass,2
+372,Alex Michelsen,Hard,2
+10,Alex Molcan,Clay,2
+222,Alex Molcan,Grass,1
+373,Alex Molcan,Hard,0
+374,Alex Rybakov,Hard,2
+375,Alexandar Lazarov,Hard,1
+376,Alexander Blockx,Hard,2
+11,Alexander Bublik,Clay,1
+223,Alexander Bublik,Grass,0
+377,Alexander Bublik,Hard,2
+12,Alexander Ritschard,Clay,2
+378,Alexander Ritschard,Hard,2
+13,Alexander Shevchenko,Clay,0
+224,Alexander Shevchenko,Grass,1
+379,Alexander Shevchenko,Hard,0
+14,Alexander Zverev,Clay,1
+225,Alexander Zverev,Grass,0
+380,Alexander Zverev,Hard,2
+15,Alexandre Muller,Clay,2
+226,Alexandre Muller,Grass,1
+381,Alexandre Muller,Hard,1
+16,Alexei Popyrin,Clay,1
+227,Alexei Popyrin,Grass,0
+382,Alexei Popyrin,Hard,2
+17,Alexey Vatutin,Clay,0
+383,Alexis Galarneau,Hard,0
+384,Alibek Kachmazov,Hard,0
+18,Alvaro Lopez San Martin,Clay,2
+19,Andrea Vavassori,Clay,2
+228,Andrea Vavassori,Grass,0
+385,Andres Martin,Hard,1
+386,Andrey Kuznetsov,Hard,1
+20,Andrey Rublev,Clay,1
+229,Andrey Rublev,Grass,0
+387,Andrey Rublev,Hard,2
+21,Andy Murray,Clay,2
+230,Andy Murray,Grass,2
+388,Andy Murray,Hard,0
+389,Antoine Bellier,Hard,1
+22,Arthur Cazaux,Clay,2
+390,Arthur Cazaux,Hard,2
+231,Arthur Fery,Grass,2
+23,Arthur Fils,Clay,1
+232,Arthur Fils,Grass,0
+391,Arthur Fils,Hard,2
+24,Arthur Rinderknech,Clay,1
+233,Arthur Rinderknech,Grass,0
+392,Arthur Rinderknech,Hard,2
+25,Aslan Karatsev,Clay,1
+234,Aslan Karatsev,Grass,0
+393,Aslan Karatsev,Hard,0
+26,Attila Balazs,Clay,2
+394,Attila Balazs,Hard,1
+395,Beibit Zhukayev,Hard,2
+27,Ben Shelton,Clay,1
+235,Ben Shelton,Grass,0
+396,Ben Shelton,Hard,2
+28,Benjamin Bonzi,Clay,2
+236,Benjamin Bonzi,Grass,2
+397,Benjamin Bonzi,Hard,2
+398,Benjamin Hassan,Hard,0
+399,Benjamin Lock,Hard,1
+29,Benoit Paire,Clay,0
+400,Benoit Paire,Hard,1
+30,Bernabe Zapata Miralles,Clay,2
+237,Bernabe Zapata Miralles,Grass,2
+401,Bernabe Zapata Miralles,Hard,1
+402,Billy Harris,Hard,2
+403,Bjorn Fratangelo,Hard,1
+31,Borna Coric,Clay,1
+238,Borna Coric,Grass,1
+404,Borna Coric,Hard,2
+32,Borna Gojo,Clay,1
+239,Borna Gojo,Grass,0
+405,Borna Gojo,Hard,2
+33,Botic Van De Zandschulp,Clay,0
+240,Botic Van De Zandschulp,Grass,1
+406,Botic Van De Zandschulp,Hard,2
+407,Bradley Klahn,Hard,1
+408,Brandon Holt,Hard,1
+34,Brandon Nakashima,Clay,1
+241,Brandon Nakashima,Grass,2
+409,Brandon Nakashima,Hard,2
+410,Bu Yunchaokete,Hard,2
+411,Calvin Hemery,Hard,0
+35,Cameron Norrie,Clay,1
+242,Cameron Norrie,Grass,2
+412,Cameron Norrie,Hard,2
+36,Camilo Ugo Carabelli,Clay,2
+37,Carlos Alcaraz,Clay,1
+243,Carlos Alcaraz,Grass,2
+413,Carlos Alcaraz,Hard,2
+38,Carlos Taberner,Clay,2
+39,Casper Ruud,Clay,1
+244,Casper Ruud,Grass,2
+414,Casper Ruud,Hard,2
+415,Cem Ilkel,Hard,0
+40,Christopher Eubanks,Clay,1
+245,Christopher Eubanks,Grass,0
+416,Christopher Eubanks,Hard,2
+41,Christopher Oconnell,Clay,1
+246,Christopher Oconnell,Grass,2
+417,Christopher Oconnell,Hard,2
+42,Chun Hsin Tseng,Clay,0
+418,Chun Hsin Tseng,Hard,1
+419,Clement Chidekh,Hard,1
+43,Constant Lestienne,Clay,0
+247,Constant Lestienne,Grass,1
+420,Constant Lestienne,Hard,1
+44,Corentin Moutet,Clay,2
+248,Corentin Moutet,Grass,2
+421,Corentin Moutet,Hard,1
+45,Cristian Garin,Clay,1
+422,Cristian Garin,Hard,2
+423,Dalibor Svrcina,Hard,1
+46,Damir Dzumhur,Clay,2
+424,Damir Dzumhur,Hard,2
+425,Dane Sweeny,Hard,0
+47,Daniel Altmaier,Clay,1
+249,Daniel Altmaier,Grass,2
+426,Daniel Altmaier,Hard,2
+48,Daniel Elahi Galan,Clay,1
+250,Daniel Elahi Galan,Grass,2
+427,Daniel Elahi Galan,Hard,2
+49,Daniel Evans,Clay,2
+251,Daniel Evans,Grass,0
+428,Daniel Evans,Hard,0
+429,Daniel Michalski,Hard,1
+50,Daniel Rincon,Clay,0
+51,Daniil Medvedev,Clay,1
+252,Daniil Medvedev,Grass,0
+430,Daniil Medvedev,Hard,2
+431,Darian King,Hard,1
+52,David Goffin,Clay,0
+253,David Goffin,Grass,2
+432,David Goffin,Hard,2
+53,Denis Kudla,Clay,2
+433,Denis Kudla,Hard,0
+54,Denis Shapovalov,Clay,0
+254,Denis Shapovalov,Grass,0
+434,Denis Shapovalov,Hard,0
+435,Denis Yevseyev,Hard,0
+55,Dennis Novak,Clay,1
+255,Dennis Novak,Grass,2
+56,Diego Schwartzman,Clay,2
+256,Diego Schwartzman,Grass,2
+436,Diego Schwartzman,Hard,1
+57,Dimitar Kuzmanov,Clay,2
+437,Dimitar Kuzmanov,Hard,0
+58,Dino Prizmic,Clay,0
+438,Dino Prizmic,Hard,2
+59,Dominic Stricker,Clay,0
+257,Dominic Stricker,Grass,0
+439,Dominic Stricker,Hard,0
+60,Dominic Thiem,Clay,1
+258,Dominic Thiem,Grass,1
+440,Dominic Thiem,Hard,0
+259,Dominik Koepfer,Grass,2
+441,Dominik Koepfer,Hard,0
+61,Dragos Nicolae Madaras,Clay,0
+62,Duje Ajdukovic,Clay,0
+442,Duje Ajdukovic,Hard,2
+63,Dusan Lajovic,Clay,2
+260,Dusan Lajovic,Grass,2
+443,Dusan Lajovic,Hard,2
+64,Eduardo Nava,Clay,0
+444,Egor Gerasimov,Hard,2
+65,Elias Ymer,Clay,0
+445,Elias Ymer,Hard,0
+261,Eliot Spizzirri,Grass,1
+66,Elliot Benchetrit,Clay,0
+67,Emil Ruusuvuori,Clay,2
+262,Emil Ruusuvuori,Grass,0
+446,Emil Ruusuvuori,Hard,2
+68,Emilio Gomez,Clay,0
+447,Emilio Gomez,Hard,1
+69,Emilio Nava,Clay,1
+448,Emilio Nava,Hard,2
+263,Enzo Couacaud,Grass,0
+449,Enzo Couacaud,Hard,2
+450,Ernesto Escobedo,Hard,2
+264,Ethan Quinn,Grass,2
+451,Ethan Quinn,Hard,2
+70,Fabian Marozsan,Clay,1
+265,Fabian Marozsan,Grass,1
+452,Fabian Marozsan,Hard,2
+71,Fabio Fognini,Clay,0
+453,Fabio Fognini,Hard,1
+72,Facundo Bagnis,Clay,1
+454,Facundo Bagnis,Hard,1
+73,Facundo Diaz Acosta,Clay,0
+455,Facundo Diaz Acosta,Hard,1
+74,Federico Coria,Clay,2
+266,Federico Coria,Grass,2
+456,Federico Coria,Hard,1
+75,Federico Delbonis,Clay,0
+76,Feliciano Lopez,Clay,0
+267,Feliciano Lopez,Grass,0
+457,Feliciano Lopez,Hard,0
+458,Felipe Meligeni Alves,Hard,2
+77,Felix Auger Aliassime,Clay,1
+268,Felix Auger Aliassime,Grass,0
+459,Felix Auger Aliassime,Hard,2
+78,Fernando Verdasco,Clay,0
+460,Fernando Verdasco,Hard,1
+79,Filip Krajinovic,Clay,2
+461,Filip Krajinovic,Hard,0
+80,Filip Misolic,Clay,2
+462,Filip Misolic,Hard,0
+81,Flavio Cobolli,Clay,0
+463,Flavio Cobolli,Hard,0
+82,Frances Tiafoe,Clay,1
+269,Frances Tiafoe,Grass,0
+464,Frances Tiafoe,Hard,2
+83,Francesco Passaro,Clay,1
+465,Francesco Passaro,Hard,1
+84,Francisco Cerundolo,Clay,2
+270,Francisco Cerundolo,Grass,2
+466,Francisco Cerundolo,Hard,1
+271,Gabriel Diallo,Grass,1
+467,Gabriel Diallo,Hard,2
+85,Gael Monfils,Clay,2
+468,Gael Monfils,Hard,0
+86,Genaro Alberto Olivieri,Clay,2
+469,Geoffrey Blancaneaux,Hard,0
+272,George Loffhagen,Grass,1
+87,Gijs Brouwer,Clay,1
+273,Gijs Brouwer,Grass,2
+470,Gijs Brouwer,Hard,2
+88,Giovanni Mpetshi Perricard,Clay,0
+274,Giovanni Mpetshi Perricard,Grass,0
+471,Giovanni Mpetshi Perricard,Hard,2
+89,Giulio Zeppieri,Clay,1
+472,Gonzalo Lama,Hard,1
+90,Gregoire Barrere,Clay,1
+275,Gregoire Barrere,Grass,2
+473,Gregoire Barrere,Hard,0
+91,Grigor Dimitrov,Clay,1
+276,Grigor Dimitrov,Grass,0
+474,Grigor Dimitrov,Hard,2
+92,Guido Andreozzi,Clay,0
+475,Guido Andreozzi,Hard,1
+93,Guido Pella,Clay,2
+277,Guido Pella,Grass,2
+476,Guido Pella,Hard,0
+94,Hamad Medjedovic,Clay,0
+278,Hamad Medjedovic,Grass,0
+477,Hamad Medjedovic,Hard,2
+279,Harold Mayot,Grass,0
+478,Harold Mayot,Hard,1
+95,Henrique Rocha,Clay,0
+96,Holger Rune,Clay,1
+280,Holger Rune,Grass,0
+479,Holger Rune,Hard,2
+97,Hubert Hurkacz,Clay,1
+281,Hubert Hurkacz,Grass,0
+480,Hubert Hurkacz,Hard,2
+98,Hugo Dellien,Clay,2
+282,Hugo Dellien,Grass,1
+481,Hugo Dellien,Hard,1
+99,Hugo Gaston,Clay,0
+482,Hugo Gaston,Hard,0
+100,Hugo Grenier,Clay,0
+483,Illya Marchenko,Hard,0
+101,Ilya Ivashka,Clay,2
+283,Ilya Ivashka,Grass,1
+484,Ilya Ivashka,Hard,1
+102,Ivan Gakhov,Clay,0
+103,J J Wolf,Clay,1
+284,J J Wolf,Grass,0
+485,J J Wolf,Hard,0
+104,Jack Draper,Clay,2
+486,Jack Draper,Hard,2
+105,Jack Sock,Clay,0
+487,Jack Sock,Hard,0
+488,Jacopo Berrettini,Hard,1
+489,Jakub Mensik,Hard,2
+285,James Duckworth,Grass,1
+490,James Duckworth,Hard,0
+106,Jan Choinski,Clay,2
+286,Jan Choinski,Grass,2
+107,Jan Lennard Struff,Clay,1
+287,Jan Lennard Struff,Grass,0
+491,Jan Lennard Struff,Hard,2
+108,Jannik Sinner,Clay,1
+288,Jannik Sinner,Grass,0
+492,Jannik Sinner,Hard,2
+493,Jason Jung,Hard,0
+109,Jason Kubler,Clay,2
+289,Jason Kubler,Grass,1
+494,Jason Kubler,Hard,2
+110,Jaume Munar,Clay,2
+290,Jaume Munar,Grass,1
+495,Jaume Munar,Hard,2
+496,Jenson Brooksby,Hard,0
+111,Jeremy Chardy,Clay,0
+291,Jeremy Chardy,Grass,1
+497,Jeremy Chardy,Hard,1
+112,Jesper De Jong,Clay,0
+498,Jie Cui,Hard,0
+113,Jiri Lehecka,Clay,2
+292,Jiri Lehecka,Grass,0
+499,Jiri Lehecka,Hard,2
+114,Jiri Vesely,Clay,1
+293,Jiri Vesely,Grass,0
+500,Jiri Vesely,Hard,2
+115,Joao Fonseca,Clay,0
+116,Joao Sousa,Clay,0
+501,Joao Sousa,Hard,2
+117,John Isner,Clay,1
+294,John Isner,Grass,0
+502,John Isner,Hard,2
+503,John Millman,Hard,1
+118,Jordan Thompson,Clay,1
+295,Jordan Thompson,Grass,0
+504,Jordan Thompson,Hard,0
+119,Jozef Kovalik,Clay,2
+120,Juan Manuel Cerundolo,Clay,2
+296,Juan Manuel Cerundolo,Grass,1
+505,Juan Manuel Cerundolo,Hard,1
+121,Juan Pablo Varillas,Clay,2
+297,Juan Pablo Varillas,Grass,1
+506,Juan Pablo Varillas,Hard,0
+122,Juncheng Shang,Clay,2
+507,Juncheng Shang,Hard,0
+123,Jurij Rodionov,Clay,1
+508,Jurij Rodionov,Hard,2
+509,Kacper Zuk,Hard,1
+124,Karen Khachanov,Clay,1
+510,Karen Khachanov,Hard,2
+511,Karl Friberg,Hard,2
+512,Kei Nishikori,Hard,2
+298,Kevin Anderson,Grass,0
+513,Kevin Anderson,Hard,1
+299,Kimmer Coppejans,Grass,2
+514,Kimmer Coppejans,Hard,2
+515,Kiranpal Pannu,Hard,1
+125,Kyle Edmund,Clay,2
+516,Kyle Edmund,Hard,0
+126,Laslo Djere,Clay,1
+300,Laslo Djere,Grass,0
+517,Laslo Djere,Hard,2
+301,Laurent Lokoli,Grass,1
+518,Laurent Lokoli,Hard,0
+519,Leandro Riedi,Hard,0
+520,Learner Tien,Hard,1
+127,Leo Borg,Clay,2
+521,Leo Borg,Hard,1
+302,Li Tu,Grass,0
+522,Li Tu,Hard,0
+128,Liam Broady,Clay,2
+303,Liam Broady,Grass,2
+523,Liam Broady,Hard,0
+524,Liam Krall,Hard,2
+129,Lloyd Harris,Clay,2
+304,Lloyd Harris,Grass,0
+525,Lloyd Harris,Hard,2
+130,Lorenzo Giustino,Clay,2
+131,Lorenzo Musetti,Clay,2
+305,Lorenzo Musetti,Grass,0
+526,Lorenzo Musetti,Hard,0
+132,Lorenzo Sonego,Clay,2
+306,Lorenzo Sonego,Grass,2
+527,Lorenzo Sonego,Hard,2
+307,Louis Wessels,Grass,1
+133,Luca Nardi,Clay,2
+528,Luca Nardi,Hard,2
+134,Luca Van Assche,Clay,2
+308,Luca Van Assche,Grass,1
+529,Luca Van Assche,Hard,0
+135,Lucas Pouille,Clay,0
+136,Luciano Darderi,Clay,0
+530,Luciano Darderi,Hard,1
+531,Lukas Klein,Hard,0
+532,Luke Saville,Hard,1
+137,Mackenzie Mcdonald,Clay,2
+309,Mackenzie Mcdonald,Grass,2
+533,Mackenzie Mcdonald,Hard,2
+534,Malek Jaziri,Hard,0
+535,Manas Dhamne,Hard,1
+138,Marc Andrea Huesler,Clay,1
+310,Marc Andrea Huesler,Grass,0
+536,Marc Andrea Huesler,Hard,2
+537,Marc Polmans,Hard,2
+139,Marco Cecchinato,Clay,2
+311,Marco Cecchinato,Grass,1
+538,Marco Cecchinato,Hard,0
+140,Marco Trungelliti,Clay,0
+141,Marcos Giron,Clay,1
+312,Marcos Giron,Grass,2
+539,Marcos Giron,Hard,2
+142,Marin Cilic,Clay,0
+540,Marin Cilic,Hard,2
+541,Mark Lajal,Hard,2
+143,Marko Topo,Clay,2
+144,Martin Landaluce,Clay,1
+145,Marton Fucsovics,Clay,0
+313,Marton Fucsovics,Grass,0
+542,Marton Fucsovics,Hard,0
+543,Mate Valkusz,Hard,2
+146,Mateus Alves,Clay,2
+544,Mathias Bourgue,Hard,1
+545,Matija Pecotic,Hard,1
+147,Matteo Arnaldi,Clay,0
+314,Matteo Arnaldi,Grass,0
+546,Matteo Arnaldi,Hard,0
+148,Matteo Berrettini,Clay,1
+315,Matteo Berrettini,Grass,0
+547,Matteo Berrettini,Hard,2
+548,Matteo Martineau,Hard,1
+549,Mattia Bellucci,Hard,2
+149,Max Hans Rehberg,Clay,2
+150,Max Purcell,Clay,2
+316,Max Purcell,Grass,2
+550,Max Purcell,Hard,2
+151,Maxime Cressy,Clay,0
+317,Maxime Cressy,Grass,0
+551,Maxime Cressy,Hard,2
+152,Maximilian Marterer,Clay,1
+318,Maximilian Marterer,Grass,0
+552,Maximilian Marterer,Hard,2
+153,Michael Mmoh,Clay,0
+319,Michael Mmoh,Grass,0
+553,Michael Mmoh,Hard,2
+554,Michail Pervolarakis,Hard,1
+154,Mikael Ymer,Clay,2
+320,Mikael Ymer,Grass,2
+555,Mikael Ymer,Hard,1
+556,Mikhail Kukushkin,Hard,0
+321,Milos Raonic,Grass,0
+557,Milos Raonic,Hard,2
+155,Miomir Kecmanovic,Clay,1
+322,Miomir Kecmanovic,Grass,2
+558,Miomir Kecmanovic,Hard,0
+559,Mitchell Krueger,Hard,0
+560,Nick Chappell,Hard,0
+323,Nick Kyrgios,Grass,0
+156,Nicolas Barrientos,Clay,1
+157,Nicolas Jarry,Clay,1
+324,Nicolas Jarry,Grass,0
+561,Nicolas Jarry,Hard,2
+158,Nicolas Mejia,Clay,0
+562,Nicolas Moreno De Alboran,Hard,1
+563,Nikoloz Basilashvili,Hard,0
+159,Nino Serdarusic,Clay,1
+160,Novak Djokovic,Clay,1
+325,Novak Djokovic,Grass,0
+564,Novak Djokovic,Hard,2
+161,Nuno Borges,Clay,2
+326,Nuno Borges,Grass,1
+565,Nuno Borges,Hard,2
+162,Oleksii Krutykh,Clay,2
+566,Oleksii Krutykh,Hard,0
+567,Omni Kumar,Hard,0
+163,Oriol Roca Batalla,Clay,0
+164,Oscar Otte,Clay,1
+327,Oscar Otte,Grass,0
+568,Oscar Otte,Hard,0
+165,Otto Virtanen,Clay,0
+569,Otto Virtanen,Hard,2
+166,Pablo Andujar,Clay,0
+570,Pablo Andujar,Hard,1
+571,Pablo Carreno Busta,Hard,2
+167,Pablo Llamas Ruiz,Clay,2
+572,Patrick Kaukovalta,Hard,2
+168,Patrick Kypson,Clay,2
+169,Pavel Kotov,Clay,2
+328,Pavel Kotov,Grass,2
+573,Pavel Kotov,Hard,2
+170,Pedro Cachin,Clay,1
+329,Pedro Cachin,Grass,2
+574,Pedro Cachin,Hard,2
+171,Pedro Martinez,Clay,0
+575,Pedro Martinez,Hard,1
+172,Pedro Sousa,Clay,0
+576,Philip Sekulic,Hard,1
+577,Pierre Hugues Herbert,Hard,2
+173,Quentin Halys,Clay,1
+330,Quentin Halys,Grass,0
+578,Quentin Halys,Hard,2
+174,Radu Albot,Clay,2
+331,Radu Albot,Grass,1
+579,Radu Albot,Hard,0
+580,Rafael Nadal,Hard,0
+581,Ramkumar Ramanathan,Hard,0
+332,Ricardas Berankis,Grass,2
+175,Riccardo Bonadio,Clay,2
+176,Richard Gasquet,Clay,0
+333,Richard Gasquet,Grass,2
+582,Richard Gasquet,Hard,0
+583,Rigele Te,Hard,0
+334,Rinky Hijikata,Grass,2
+584,Rinky Hijikata,Hard,1
+177,Roberto Bautista Agut,Clay,2
+335,Roberto Bautista Agut,Grass,2
+585,Roberto Bautista Agut,Hard,2
+178,Roberto Carballes Baena,Clay,2
+336,Roberto Carballes Baena,Grass,2
+586,Roberto Carballes Baena,Hard,0
+587,Robin Haase,Hard,0
+588,Rodrigo Pacheco Mendez,Hard,1
+179,Roman Safiullin,Clay,2
+337,Roman Safiullin,Grass,0
+589,Roman Safiullin,Hard,2
+180,Rudolf Molleker,Clay,2
+338,Ryan Peniston,Grass,1
+339,Sasi Kumar Mukund,Grass,2
+590,Sasi Kumar Mukund,Hard,1
+181,Sebastian Baez,Clay,2
+340,Sebastian Baez,Grass,2
+591,Sebastian Baez,Hard,2
+182,Sebastian Korda,Clay,2
+341,Sebastian Korda,Grass,0
+592,Sebastian Korda,Hard,2
+183,Sebastian Ofner,Clay,0
+342,Sebastian Ofner,Grass,1
+593,Sebastian Ofner,Hard,0
+594,Seong Chan Hong,Hard,2
+343,Shintaro Mochizuki,Grass,2
+595,Shintaro Mochizuki,Hard,0
+344,Sho Shimabukuro,Grass,1
+596,Sho Shimabukuro,Hard,0
+597,Skander Mansouri,Hard,1
+598,Soon Woo Kwon,Hard,0
+184,Stan Wawrinka,Clay,1
+345,Stan Wawrinka,Grass,2
+599,Stan Wawrinka,Hard,0
+185,Stefano Napolitano,Clay,1
+600,Stefano Napolitano,Hard,1
+186,Stefano Travaglia,Clay,1
+601,Stefano Travaglia,Hard,1
+602,Stefanos Sakellaridis,Hard,1
+187,Stefanos Tsitsipas,Clay,1
+346,Stefanos Tsitsipas,Grass,0
+603,Stefanos Tsitsipas,Hard,2
+188,Steve Johnson,Clay,1
+347,Steve Johnson,Grass,0
+604,Steve Johnson,Hard,0
+605,Strong Kirchheimer,Hard,1
+606,Sumit Nagal,Hard,2
+189,Tallon Griekspoor,Clay,1
+348,Tallon Griekspoor,Grass,0
+607,Tallon Griekspoor,Hard,2
+608,Tao Mu,Hard,1
+190,Taro Daniel,Clay,0
+349,Taro Daniel,Grass,2
+609,Taro Daniel,Hard,0
+191,Taylor Fritz,Clay,1
+350,Taylor Fritz,Grass,0
+610,Taylor Fritz,Hard,2
+611,Terence Atmane,Hard,0
+612,Thai Son Kwiatkowski,Hard,0
+192,Thanasi Kokkinakis,Clay,1
+613,Thanasi Kokkinakis,Hard,2
+193,Thiago Agustin Tirante,Clay,2
+614,Thiago Agustin Tirante,Hard,2
+194,Thiago Monteiro,Clay,1
+351,Thiago Monteiro,Grass,0
+615,Thiago Monteiro,Hard,2
+195,Thiago Seyboth Wild,Clay,1
+616,Thiago Seyboth Wild,Hard,2
+196,Thomaz Bellucci,Clay,0
+617,Tim Van Rijthoven,Hard,2
+197,Timofey Skatov,Clay,2
+618,Timofey Skatov,Hard,2
+619,Titouan Droguet,Hard,0
+198,Tomas Barrios Vera,Clay,0
+352,Tomas Barrios Vera,Grass,2
+620,Tomas Barrios Vera,Hard,1
+199,Tomas Machac,Clay,2
+353,Tomas Machac,Grass,1
+621,Tomas Machac,Hard,0
+200,Tomas Martin Etcheverry,Clay,1
+354,Tomas Martin Etcheverry,Grass,2
+622,Tomas Martin Etcheverry,Hard,2
+201,Tommy Paul,Clay,2
+355,Tommy Paul,Grass,0
+623,Tommy Paul,Hard,2
+624,Tung Lin Wu,Hard,0
+202,Ugo Humbert,Clay,1
+356,Ugo Humbert,Grass,1
+625,Ugo Humbert,Hard,2
+203,Valentin Vacherot,Clay,2
+626,Vasek Pospisil,Hard,0
+627,Viktor Durasovic,Hard,0
+204,Vitaliy Sachko,Clay,0
+628,Vitaliy Sachko,Hard,2
+205,Yannick Hanfmann,Clay,1
+357,Yannick Hanfmann,Grass,0
+629,Yannick Hanfmann,Hard,2
+630,Ye Cong Mo,Hard,2
+631,Yi Zhou,Hard,0
+206,Yibing Wu,Clay,0
+358,Yibing Wu,Grass,2
+632,Yibing Wu,Hard,0
+207,Yoshihito Nishioka,Clay,2
+359,Yoshihito Nishioka,Grass,2
+633,Yoshihito Nishioka,Hard,0
+208,Yosuke Watanuki,Clay,0
+360,Yosuke Watanuki,Grass,0
+634,Yosuke Watanuki,Hard,0
+209,Younes Lalami Laaroussi,Clay,0
+635,Yu Hsiou Hsu,Hard,2
+636,Yuki Bhambri,Hard,1
+361,Yunseong Chung,Grass,2
+637,Zachary Svajda,Hard,0
+638,Zhe Li,Hard,0
+210,Zhizhen Zhang,Clay,1
+362,Zhizhen Zhang,Grass,2
+639,Zhizhen Zhang,Hard,2
+211,Zizou Bergs,Clay,1
+640,Zizou Bergs,Hard,0
+212,Zsombor Piros,Clay,2
+641,Zsombor Piros,Hard,1
