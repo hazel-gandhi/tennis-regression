@@ -1,10 +1,25 @@
 #  Tennis Data Regression Analysis 🏸🎾
 
-With this analysis, I have tried to see how the result of a match is impacted by different serve and return metrics.
+This analysis uses logistic regression to predict which player is most likely to win the Men's Singles title at the 2025 French Open.
 
 ##  Repo Guide 🗂️
 
-- **`atp_data.ipynb`**: Contains all my data cleaning and regression analysis in R.
-- **`atp_matches_2023.csv`**: Original file with all match-level data I used for the analysis. Data is sourced from Jeff Sackmann's [Github repo](https://github.com/JeffSackmann/tennis_atp). 
-- **`scratchpad.ipynb`**: Rough code for the analysis. 
-- **`top_20_player_stats_final.csv`**: CSV containing match data for currently ranked top 20 ATP players (with matches they won and lost). 
+- **`atp_files`**: Folder containing all match-level ATP data between 2022 and 2024. This data is sourced from from Jeff Sackmann's [Github repo](https://github.com/JeffSackmann/tennis_atp). 
+- **`atp-analysis.ipynb`**: Contains all data cleaning and regression analysis in R.
+- **`atp-output.csv`**: Output of the previous file, which will then be used for analysis
+- **`atp-output-analysis.ipynb`**: Analysis of how well the model predicts tennis matches and residuals. Also contains analysis for charts.
+- **`data`**: Folder containing the csvs that came from the analysis
+- **`charts`**: png files of charts used in the story
+
+## Model overview
+
+This analysis uses a regression model with the following features to predict the outcome of a match:
+- Difference between two players' elo ratings
+- Length of match (best of five vs best of three)
+- Surface-level advantage for each player
+
+## Model results
+
+- Statistically significant p-values with a Pseudo R2 of 0.13
+- Precision: 66%
+- Recall: 66%
